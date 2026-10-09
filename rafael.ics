@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Rafael 2//ES
+BEGIN:VEVENT
+UID:rafael-dino-2-20261107@digitalpro
+DTSTAMP:20261008T230000Z
+DTSTART:20261107T190000Z
+SUMMARY:Cumpleaños de Rafael - 2 añitos
+LOCATION:Magic Park
+DESCRIPTION:Dinoaventura de Rafael. Confirmaciones: +59175464944.
+URL:https://maps.app.goo.gl/C2kgyC6ijdhw1pLE7?g_st=iw
+END:VEVENT
+END:VCALENDAR

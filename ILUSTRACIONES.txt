@@ -1,0 +1,7 @@
+Método: herramienta integrada image_gen.
+
+Prompt dinosaurios: ilustración original en acuarela/gouache de tres dinosaurios bebés (cuello largo verde salvia, triceratops celeste, estegosaurio amarillo mantequilla con placas durazno) y un pterodáctilo durazno; poses tiernas, follaje discreto, fondo transparente, sin texto. NM.jpeg se utilizó exclusivamente como referencia de estilo y colores.
+
+Prompt huevito: dinosaurio bebé verde salvia sonriendo al salir de un huevo marfil moteado en celeste y durazno; acuarela y gouache, figura completa, fondo transparente, sin textos.
+
+Archivos finales en assets/dinosaurios.webp y assets/huevito.webp.

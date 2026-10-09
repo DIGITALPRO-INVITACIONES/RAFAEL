@@ -1,0 +1,19 @@
+RAFAEL · 2 AÑITOS
+7 de noviembre de 2026, 15:00 (hora de Bolivia).
+Magic Park. Se utiliza el enlace de ubicación proporcionado por la familia.
+Confirmaciones y consultas: +59175464944.
+Digital Pro: +59179352293.
+
+Música: pista Roar proporcionada por el cliente; empieza al tocar el huevito.
+Animación: tres recorridos de diez huellas con pasos alternados y desvanecimiento.
+El botón Huellitas permite pausar/activar el efecto.
+Se respeta la preferencia de movimiento reducido del dispositivo.
+Cuenta regresiva, calendario, ubicación, confirmación y consultas por WhatsApp.
+Compartir y copiar enlace quedan disponibles al publicar el sitio.
+
+GITHUB PAGES
+Descomprimir y subir el contenido de esta carpeta. index.html debe quedar en la raíz junto con estilo.css, invitacion.js, rafael.ics y la carpeta assets.
+No subir el ZIP como archivo de la página.
+
+Ilustraciones originales generadas con image_gen, inspiradas en la paleta pastel de la referencia NM.jpeg. No se incorporó la fotografía de referencia ni su texto.
+Tipografía: Baloo 2, licencia SIL Open Font License incluida en assets.
