@@ -17,3 +17,4 @@ No subir el ZIP como archivo de la página.
 
 Ilustraciones originales generadas con image_gen, inspiradas en la paleta pastel de la referencia NM.jpeg. No se incorporó la fotografía de referencia ni su texto.
 Tipografía: Baloo 2, licencia SIL Open Font License incluida en assets.
+Actualización: dinosaurio del huevo naranja pastel y letras ampliadas. Incluir legibilidad.css al subir. Edición con ImageGen integrado: cambiar solo piel y espinas a naranja pastel, conservar pose, expresión, huevo crema con motitas y fondo transparente.
